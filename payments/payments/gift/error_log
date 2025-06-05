@@ -1,0 +1,8 @@
+[29-Aug-2023 16:34:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/payments/gift/itn.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/payments/gift/itn.php on line 46
+[05-Sep-2023 21:01:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/payments/gift/itn.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/payments/gift/itn.php on line 46

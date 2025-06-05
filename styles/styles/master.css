@@ -1,0 +1,104 @@
+/* Bootstrap Adjustments */
+main {
+	padding-top: 2%;
+}
+/* Helper Classes */
+.card-image-sm {
+	height: auto !important;
+}
+
+.card-image-lg {
+	height: auto !important;
+}
+
+.video-player {
+	width: 100%;
+	height: 69vh;
+}
+
+.video-js {
+	height: 320px !important;
+}
+
+.table-image-sm {
+	width: 150px !important;
+	height: 80px !important;
+}
+.table-image-md {
+	width: 100% !important;
+	height: 80px !important;
+}
+
+/* Mobile Responsiveness Classes */
+@media only screen and (max-width: 600px) {
+	.mobile-margin-0 {
+		margin: 0 !important;
+	}
+	.mobile-margin-1 {
+		margin: 5px !important;
+	}
+	.mobile-margin-2 {
+		margin: 20px !important;
+	}
+	.mobile-margin-t-1 {
+		margin-top: 10px !important;
+	}
+	.mobile-margin-b-0 {
+		margin-bottom: 0px !important;
+	}
+	.mobile-margin-b-1 {
+		margin-bottom: 10px !important;
+	}
+	.mobile-margin-b-2 {
+		margin-bottom: 25px !important;
+	}
+
+	.mobile-padding-0 {
+		padding: 0 !important;
+	}
+	.mobile-padding-1 {
+		padding: 10px !important;
+	}
+	.mobile-padding-2 {
+		padding: 20px !important;
+	}
+
+	.mobile-width-auto {
+		width: auto !important;
+	}
+	.mobile-width-100 {
+		width: 100% !important;
+	}
+
+	.mobile-height-auto {
+		height: auto !important;
+	}
+
+	.mobile-text-center {
+		text-align: center !important;
+	}
+	.mobile-text-left {
+		text-align: left !important;
+	}
+
+	.mobile-no-float {
+		float: none !important;
+	}
+	.mobile-float-left {
+		float: left !important;
+	}
+	.mobile-float-right {
+		float: right !important;
+	}
+
+	.mobile-hidden {
+		display: none !important;
+	}
+
+	.mobile-d-block {
+		display: block !important;
+	}
+	.mobile-d-inline-block {
+		display: inline-block !important;
+	}
+}

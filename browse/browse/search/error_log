@@ -1,0 +1,14 @@
+[09-Aug-2023 16:03:16 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[09-Aug-2023 16:03:16 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[09-Aug-2023 16:03:28 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[09-Aug-2023 16:03:28 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[09-Aug-2023 16:04:04 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[09-Aug-2023 16:04:04 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[09-Aug-2023 16:04:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[09-Aug-2023 16:04:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[19-Sep-2023 10:37:54 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[19-Sep-2023 10:37:54 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[19-Sep-2023 10:38:21 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[19-Sep-2023 10:38:21 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68
+[27-Sep-2023 11:00:21 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 15
+[27-Sep-2023 11:00:21 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/browse/search/index.php on line 68

@@ -1,0 +1,24 @@
+[25-Aug-2023 17:17:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28
+[26-Aug-2023 11:39:38 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28
+[26-Aug-2023 11:42:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28
+[26-Aug-2023 11:43:25 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28
+[26-Aug-2023 11:44:09 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28
+[28-Aug-2023 21:44:43 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/artmusic/public_html/account/invite/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/account/invite/index.php on line 28

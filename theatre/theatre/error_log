@@ -1,0 +1,726 @@
+[26-Dec-2021 05:38:55 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[26-Dec-2021 09:15:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[26-Dec-2021 09:16:11 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[26-Dec-2021 17:23:34 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[27-Dec-2021 14:05:43 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[27-Dec-2021 14:06:47 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[28-Dec-2021 19:09:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[28-Dec-2021 21:33:38 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[01-Jan-2022 18:14:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[07-Jan-2022 10:18:50 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[07-Jan-2022 12:28:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[15-Jan-2022 18:49:27 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[21-Jan-2022 21:06:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[24-Jan-2022 15:18:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[05-Mar-2022 19:51:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[07-Mar-2022 08:55:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[07-Mar-2022 09:40:28 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[07-Mar-2022 10:14:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[11-Mar-2022 19:22:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[01-Apr-2022 17:29:38 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[01-Apr-2022 20:12:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[18-Apr-2022 11:13:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[22-Apr-2022 08:30:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[22-Apr-2022 19:44:00 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[14-May-2022 16:00:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[02-Jun-2022 07:24:48 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[11-Jun-2022 19:16:59 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[11-Jun-2022 19:21:01 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[18-Jun-2022 19:11:04 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[18-Jun-2022 22:48:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[19-Jun-2022 21:22:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[22-Jun-2022 16:37:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[03-Jul-2022 10:19:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[08-Jul-2022 10:10:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/settings.php:262
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/settings.php on line 262
+[08-Jul-2022 11:39:42 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[08-Jul-2022 12:58:01 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[10-Jul-2022 08:02:55 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[31-Jul-2022 16:45:55 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[24-Sep-2022 19:15:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[27-Sep-2022 06:44:35 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[14-Oct-2022 12:10:59 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[12-Dec-2022 20:41:42 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[16-Dec-2022 09:11:15 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[27-Jan-2023 20:16:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[02-Mar-2023 15:00:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Vimeo\Exceptions\VimeoRequestException: Unable to complete request. [SSL certificate problem: unable to get local issuer certificate] in /home/artmusic/public_html/vendor/vimeo/vimeo-api/src/Vimeo/Vimeo.php:529
+Stack trace:
+#0 /home/artmusic/public_html/vendor/vimeo/vimeo-api/src/Vimeo/Vimeo.php(151): Vimeo\Vimeo->_request('https://api.vim...', Array)
+#1 /home/artmusic/public_html/vendor/vimeo/vimeo-api/src/Vimeo/Vimeo.php(334): Vimeo\Vimeo->request('/me/videos?fiel...', Array, 'POST')
+#2 /home/artmusic/public_html/theatre/videos.php(440): Vimeo\Vimeo->upload('/tmp/phppzH56p', Array)
+#3 {main}
+  thrown in /home/artmusic/public_html/vendor/vimeo/vimeo-api/src/Vimeo/Vimeo.php on line 529
+[03-Mar-2023 20:27:02 Africa/Johannesburg] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/artmusic/public_html/vendor/composer/platform_check.php on line 24
+[08-Mar-2023 18:55:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/payments.php on line 10
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 11
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 15
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/payments.php on line 18
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 21
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 68
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 68
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 108
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 108
+[24-Mar-2023 08:44:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[24-Mar-2023 21:22:03 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[25-Mar-2023 17:42:18 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[28-Apr-2023 13:40:00 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[28-Apr-2023 17:11:15 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[28-Apr-2023 17:48:00 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[06-May-2023 20:34:32 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[26-May-2023 20:03:49 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/payments.php on line 10
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 11
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 15
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/payments.php on line 18
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 21
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 68
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 68
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 108
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 108
+[16-Jun-2023 20:46:59 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/payments.php on line 10
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 11
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 15
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/payments.php on line 18
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 21
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 68
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 68
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 108
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 108
+[02-Jul-2023 06:24:07 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[03-Jul-2023 14:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[06-Jul-2023 21:24:21 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[11-Jul-2023 21:04:31 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 47
+[03-Aug-2023 14:22:53 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 52
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[04-Aug-2023 02:28:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[19-Aug-2023 04:19:57 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[31-Aug-2023 19:16:29 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[26-Sep-2023 17:01:56 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[26-Sep-2023 17:02:11 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[29-Sep-2023 20:40:13 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 47
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 52
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 52
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 57
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 57
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 62
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 62
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 67
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 67
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 72
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 72
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 104
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 112
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 120
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 128
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 136
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 144
+[12-Oct-2023 15:32:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Oct-2023 15:03:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[16-Oct-2023 20:05:50 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 479
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 479
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 851
+[29-Oct-2023 15:21:06 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 851
+[30-Oct-2023 16:58:35 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[03-Nov-2023 13:24:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[12-Dec-2023 20:41:41 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[12-Dec-2023 20:41:47 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[12-Dec-2023 20:41:48 Africa/Johannesburg] PHP Warning:  Undefined array key "Title" in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 47
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 52
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 52
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 57
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 57
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 62
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 62
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 67
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 67
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 72
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 72
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 104
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 112
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 120
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 128
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 136
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 144
+[22-Dec-2023 16:50:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[22-Dec-2023 16:52:47 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[03-Jan-2024 16:05:46 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Jan-2024 16:05:46 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Jan-2024 16:05:46 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Jan-2024 16:05:46 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 851
+[02-Feb-2024 19:09:34 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 851
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Feb-2024 10:29:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[21-Feb-2024 12:42:12 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[21-Feb-2024 13:59:09 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[21-Feb-2024 13:59:15 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[21-Feb-2024 13:59:16 Africa/Johannesburg] PHP Warning:  Undefined array key "Title" in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Mar-2024 08:44:54 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[16-Mar-2024 18:09:53 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 479
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 479
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 851
+[17-Mar-2024 08:07:20 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 851
+[19-Mar-2024 15:18:55 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[19-Mar-2024 15:19:50 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 47
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 52
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 52
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 57
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 57
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 62
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 62
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 67
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 67
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 72
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 72
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 104
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 112
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 120
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 128
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 136
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 144
+[20-Mar-2024 09:15:32 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[20-Mar-2024 09:21:44 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Apr-2024 10:45:29 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Apr-2024 19:18:04 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 260
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/payments.php on line 10
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 11
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 15
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/payments.php on line 18
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/payments.php:10) in /home/artmusic/public_html/theatre/payments.php on line 21
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 68
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 68
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/payments.php on line 108
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/payments.php on line 108
+[08-Apr-2024 05:53:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/payments.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/payments.php on line 111
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-May-2024 11:45:48 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/settings.php on line 10
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/settings.php:10) in /home/artmusic/public_html/theatre/settings.php on line 11
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/settings.php on line 15
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/settings.php on line 18
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/settings.php:10) in /home/artmusic/public_html/theatre/settings.php on line 21
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/settings.php on line 115
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/settings.php on line 115
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/settings.php on line 132
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/settings.php on line 132
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/settings.php on line 135
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/settings.php on line 156
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/settings.php on line 156
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/settings.php on line 159
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[22-May-2024 09:57:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/settings.php:262
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/settings.php on line 262
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[05-Jul-2024 13:59:35 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[08-Jul-2024 10:57:33 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 851
+[08-Jul-2024 12:36:30 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 851
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 851
+[09-Jul-2024 11:14:57 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 851
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[15-Jul-2024 13:11:02 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[18-Jul-2024 05:58:01 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[18-Jul-2024 07:36:05 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 592
+[28-Jul-2024 22:26:21 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[03-Aug-2024 11:09:17 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Aug-2024 18:55:20 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[08-Aug-2024 18:56:21 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[08-Aug-2024 18:56:21 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/reports.php on line 10
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/reports.php:10) in /home/artmusic/public_html/theatre/reports.php on line 11
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/reports.php on line 15
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/reports.php on line 18
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/reports.php:10) in /home/artmusic/public_html/theatre/reports.php on line 21
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/reports.php on line 70
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/reports.php on line 70
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/reports.php on line 119
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/reports.php on line 119
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/reports.php on line 168
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/reports.php on line 168
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/reports.php on line 225
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/reports.php on line 225
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[31-Aug-2024 04:05:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/reports.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/reports.php on line 315
+[31-Aug-2024 04:05:26 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/index.php on line 11
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 12
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 16
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 19
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/index.php:11) in /home/artmusic/public_html/theatre/index.php on line 22
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 27
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 27
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 32
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 32
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 37
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 37
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 42
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 42
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 47
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 47
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 52
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 52
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 57
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 57
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 62
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 62
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 67
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 67
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/index.php on line 72
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/index.php on line 72
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 104
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 112
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 120
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 128
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 136
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/index.php on line 144
+[05-Sep-2024 12:11:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/artmusic/public_html/theatre/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/artmusic/public_html/theatre/index.php on line 155
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Sep-2024 12:33:07 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_access in /home/artmusic/public_html/theatre/videos.php on line 16
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 17
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 21
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Attempt to read property "num_rows" on bool in /home/artmusic/public_html/theatre/videos.php on line 24
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmusic/public_html/theatre/videos.php:16) in /home/artmusic/public_html/theatre/videos.php on line 27
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/theatre/videos.php on line 52
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Undefined variable $user_theatre in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[16-Sep-2024 12:33:11 Africa/Johannesburg] PHP Warning:  Trying to access array offset on value of type null in /home/artmusic/public_html/server/includes/theatre-navigation.php on line 2
+[27-Sep-2024 20:21:45 Africa/Johannesburg] PHP Warning:  Undefined variable $internal_link_target in /home/artmusic/public_html/theatre/reports.php on line 651
